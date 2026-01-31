@@ -23,3 +23,34 @@ HTML, CSS, JavaScript가 하나의 파일에 통합되어 있어 바로 실행�
 ```bash
 git clone https://github.com/your-username/snake-game.git
 **
+
+2. 프로젝트 폴더로 이동합니다.
+cd snake-game
+
+3. index.html 파일을 브라우저에서 실행합니다.
+
+---
+
+## 📂 프로젝트 구조
+snake-game/
+└── index.html   # HTML + CSS + JS 통합 파일
+
+---
+
+## ⌨️ 조작 방법
+
+
+키	기능
+↑ ↓ ← →	뱀 이동
+Space	시작 / 일시정지
+R	게임 리셋
+
+---
+
+## 🧩 기술 스택
+HTML5 Canvas
+
+Vanilla JavaScript
+
+CSS3
+
